@@ -1,3 +1,4 @@
+discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
 gateway.discord.gg
 cdn.discordapp.com
